@@ -75,9 +75,7 @@ Y si lo quisiéramos ver en forma de una matriz sería de la siguiente manera.
 Lo cual nos quiere decir que tenemos un 50% de probabilidad de que el rayo láser se vaya por alguna de las dos rendijas. Luego de pasar por alguna de las dos rendijas que vendrían a ser los estados 1 y 2 vemos que hay una probabilidad de 1/6 o 16.66 % de que toque alguno de los receptores.
 
 ### Experimento de 3 rendijas:
-![WhatsApp Image 2020-03-12 at 3 31 50 PM](https://user-images.githubusercontent.com/59974540/76564726-2736a580-6477-11ea-9cfe-31ca6c5cb615.jpeg)
 
-![WhatsApp Image 2020-03-12 at 3 32 01 PM (1)](https://user-images.githubusercontent.com/59974540/76564774-403f5680-6477-11ea-8930-f8ddd3db0630.jpeg)
 
 
 ![image](https://user-images.githubusercontent.com/59977494/76165459-3e972b00-6125-11ea-8587-03e0fa9bf9e4.png)
